@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Onur.  After working for 1 year as R&D engineer, I dedicated myself to Fullstack Web Development and I am currently working on this field. I like to talk to other people about what I've learned.<br><br>🎓 I graduated from Çanakkale Onsekiz Mart University Computer Engineering Department<br>📚 I'm currently working on .NET Core and Angular.<br>
+Hi, I'm Onur.  After working for 1 year as R&D engineer, I dedicated myself to Backend Development and I am currently working on this field. I like to talk to other people about what I've learned.<br><br>🎓 I graduated from Çanakkale Onsekiz Mart University Computer Engineering Department<br>📚 I'm currently working on .NET Core.<br>
 
 
 ## 🌐 Socials:
